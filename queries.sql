@@ -10,7 +10,7 @@ JOIN medicos m ON c.medico_id = m.id;
 
 -- Consultas futuras
 SELECT * FROM consultas
-WHERE data_consulta > NOW();
+WHERE data_consulta > datetime('now');
 
 -- Quantidade de consultas por médico
 SELECT 
