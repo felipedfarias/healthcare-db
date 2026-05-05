@@ -1,5 +1,9 @@
 #  Sistema de Gestão de Clínica (HealthCare DB)
 
+>  Sistema de banco de dados para gestão de clínica médica  
+>  Desenvolvido com SQL e SQLite  
+>  Foco em integridade de dados e cenários reais de QA  
+
 ##  Sobre o projeto
 
 Este projeto consiste na modelagem e implementação de um banco de dados relacional para simular o funcionamento de uma clínica médica.
